@@ -1,0 +1,5 @@
+# Python virtual environment
+lep_ml/
+
+# Claude Code local config
+.claude/
